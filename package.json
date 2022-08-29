@@ -8,7 +8,7 @@
     "classnames": "^2.2.6",
     "draft-js": "0.11.7",
     "immutable": "~3.8.2",
-    "prop-types": "^15.5.2",
+    "prop-types": "^15.8.1",
     "setimmediate": "^1.0.5"
   },
   "devDependencies": {
